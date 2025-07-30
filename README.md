@@ -1,1 +1,0 @@
-# adwords-search_term_identifier
